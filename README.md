@@ -26,7 +26,8 @@ SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard
 
 # Class Diagram
 
-![image](https://github.com/Reirinn/Adapter-Pattern/assets/142465054/ec4a9ec0-2bd5-4a6f-960e-aa427766db28)
+![image](https://github.com/Reirinn/Adapter-Pattern/assets/142465054/d1638111-28cc-43a1-8f18-3257ca204c6a)
+
 
 
 
