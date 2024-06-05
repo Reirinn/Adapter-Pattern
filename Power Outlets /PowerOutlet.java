@@ -1,5 +1,3 @@
-package powerOutlets;
-
 public interface PowerOutlet {
    
 	public String plugIn();

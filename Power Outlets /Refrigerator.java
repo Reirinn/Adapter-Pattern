@@ -1,5 +1,3 @@
-package powerOutlets;
-
 public class Refrigerator {
 	 
     public String startCooling(){

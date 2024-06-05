@@ -1,5 +1,3 @@
-package powerOutlets;
-
 public class SmartphoneCharger {
 
 	public String chargePhone(){

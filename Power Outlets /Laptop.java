@@ -1,6 +1,3 @@
-package powerOutlets;
-
-
 public class Laptop {
  
     public String charge(){

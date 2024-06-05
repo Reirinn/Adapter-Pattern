@@ -1,5 +1,3 @@
-package powerOutlets;
-
 public class LaptopAdapter implements PowerOutlet {
     private Laptop laptop;
 

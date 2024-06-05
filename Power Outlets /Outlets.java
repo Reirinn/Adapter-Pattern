@@ -1,5 +1,3 @@
-package powerOutlets;
-
 public class Outlets {
 
     public static void main(String[] args){

@@ -1,5 +1,3 @@
-package powerOutlets;
-
 public class RefrigeratorAdapter implements PowerOutlet{
 
 	 private Refrigerator ref;

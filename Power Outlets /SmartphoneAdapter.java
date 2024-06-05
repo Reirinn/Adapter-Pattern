@@ -1,5 +1,3 @@
-package powerOutlets;
-
 public class SmartphoneAdapter implements PowerOutlet {
 
 	 private SmartphoneCharger cp;
