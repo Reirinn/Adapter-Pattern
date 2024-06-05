@@ -40,4 +40,5 @@ Adapter Objects:
 
 # Output
 
+![image](https://github.com/Reirinn/Adapter-Pattern/assets/142465054/8517a7b1-a892-4d90-ac16-9f769df186d1)
 
